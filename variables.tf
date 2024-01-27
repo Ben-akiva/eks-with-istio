@@ -4,7 +4,7 @@
 
 variable "cluster_name" {
   description = "The name of the Amazon EKS cluster. This is a unique identifier for your EKS cluster within the AWS region."
-  default     = "eks-cluster"
+  default     = "eks-cluster-ben"
 }
 
 variable "aws_region" {
